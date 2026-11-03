@@ -1,0 +1,6 @@
+{
+  "name": "Painel Financeiro — Mercado & Notícias",
+  "description": "Painel financeiro profissional com cotações de índices mundiais, ações brasileiras, ETFs, câmbio, commodities, cripto, gráficos e notícias do mercado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
